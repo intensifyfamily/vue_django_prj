@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a504b22c-d348-44b9-ac91-c699f758a196" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/PLANTS$teat.coverage" NAME="teat Coverage Results" MODIFIED="1573982670996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PLANTS" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="plants_db@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="plants_db@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="plants_db@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="plants_db: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Uvw3BAM9iAgen7OW5HLL5i7F6o" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite&#10;mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="F:/vue_project/vue-project" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\all_prj\server\PLANTS\users" />
+      <recent name="F:\all_prj\PLANTS\hbase" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.teat">
+    <configuration name="teat" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PLANTS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PLANTS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PLANTS/teat.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PLANTS" type="Python.DjangoServer" factoryName="Django server">
+      <module name="PLANTS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.teat" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:plants_db@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a504b22c-d348-44b9-ac91-c699f758a196" name="Default Changelist" comment="" />
+      <created>1573605435022</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573605435022</updated>
+      <workItem from="1573605439210" duration="1926000" />
+      <workItem from="1573614299703" duration="3368000" />
+      <workItem from="1573656993931" duration="5562000" />
+      <workItem from="1573781080616" duration="926000" />
+      <workItem from="1573869634312" duration="3535000" />
+      <workItem from="1573874831295" duration="11570000" />
+      <workItem from="1573923620379" duration="3168000" />
+      <workItem from="1573961757552" duration="18564000" />
+      <workItem from="1574137377778" duration="10538000" />
+      <workItem from="1574160388414" duration="5950000" />
+      <workItem from="1574405071185" duration="4137000" />
+      <workItem from="1574500112099" duration="11000" />
+      <workItem from="1574500124991" duration="2149000" />
+      <workItem from="1575189652968" duration="3443000" />
+      <workItem from="1575282450481" duration="42000" />
+      <workItem from="1575354814349" duration="4112000" />
+      <workItem from="1575374500786" duration="8005000" />
+      <workItem from="1575610217960" duration="611000" />
+      <workItem from="1575621517887" duration="837000" />
+      <workItem from="1576250176575" duration="5730000" />
+      <workItem from="1578058473810" duration="34000" />
+      <workItem from="1578238962984" duration="143000" />
+      <workItem from="1578239115266" duration="245000" />
+      <workItem from="1578239368183" duration="913000" />
+      <workItem from="1578276462208" duration="7404000" />
+      <workItem from="1578294224863" duration="11316000" />
+      <workItem from="1578541093725" duration="7052000" />
+      <workItem from="1578548368203" duration="6000" />
+      <workItem from="1578548453861" duration="7000" />
+      <workItem from="1578548511160" duration="132000" />
+      <workItem from="1578558434880" duration="2011000" />
+      <workItem from="1578645822832" duration="2395000" />
+      <workItem from="1578649528729" duration="9845000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="77" y="137" width="816" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578277090483">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="77" y="137" width="816" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578277090483" />
+    <state x="834" y="282" key="FileChooserDialogImpl" timestamp="1578238986974">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="834" y="282" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1578238986974" />
+    <state width="988" height="259" key="GridCell.Tab.0.bottom" timestamp="1578296898148">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="988" height="259" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578296898148" />
+    <state width="988" height="259" key="GridCell.Tab.0.center" timestamp="1578296898148">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="988" height="259" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578296898148" />
+    <state width="988" height="259" key="GridCell.Tab.0.left" timestamp="1578296898147">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="988" height="259" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578296898147" />
+    <state width="988" height="259" key="GridCell.Tab.0.right" timestamp="1578296898148">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="988" height="259" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578296898148" />
+    <state width="220" height="477" key="HiddenNamespacesPopup" timestamp="1578239630086">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="220" height="477" key="HiddenNamespacesPopup/0.0.1920.1040@0.0.1920.1040" timestamp="1578239630086" />
+    <state x="759" y="171" key="SettingsEditor" timestamp="1578239339601">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="759" y="171" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578239339601" />
+    <state x="827" y="404" width="343" height="239" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1578651588002">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="827" y="404" width="343" height="239" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1920.1040@0.0.1920.1040" timestamp="1578651588002" />
+    <state x="456" y="167" key="com.intellij.database.dbimport.ImportDialog" timestamp="1578278096011">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="456" y="167" key="com.intellij.database.dbimport.ImportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578278096011" />
+    <state x="298" y="136" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1578651708051">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="298" y="136" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578651708051" />
+    <state x="1137" y="236" width="672" height="678" key="search.everywhere.popup" timestamp="1578545440047">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1137" y="236" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1578545440047" />
+  </component>
+</project>
